@@ -14,7 +14,7 @@ This assignment's aim is to construct and train an AI for predicting the exact d
 ## Files Explanation
 
 - data 📁
-  - greek_stopwords.json -> a collection of ancient greek stopwords found on aurelberra's repository ("https://github.com/aurelberra/stopwords")
+  - greek_stopwords.json -> a collection of ancient greek stopwords found on aurelberra's repository - https://github.com/aurelberra/stopwords
   - iphi2802.csv -> the actual data on witch the Neural Network is going to train and get tested
 - exports 📁
   - images -> Loss diagrams of all the tests made
