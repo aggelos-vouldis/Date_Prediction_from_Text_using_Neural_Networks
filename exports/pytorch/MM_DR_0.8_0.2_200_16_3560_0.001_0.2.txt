@@ -1,0 +1,15 @@
+MULTILAYER PERCEPTOR
+hidden_layer_nodes=(2 * INPUT_NODES) - (INPUT_NODES/8) = 3560, epochs=200, batch_size=16, learning rate=0.001, momentum=0.2
+WITH DROPOUT   R_IN: 0.8, R_H: 0.2
+----------------------------------------------------------------------------------------------------
+Fold #1
+Epoch 200/200, Validation Loss: 0.014927694573998451
+Fold #2
+Epoch 200/200, Validation Loss: 0.010383861139416695
+Fold #3
+Epoch 200/200, Validation Loss: 0.009040480479598045
+Fold #4
+Epoch 200/200, Validation Loss: 0.010335983708500862
+Fold #5
+Epoch 200/200, Validation Loss: 0.011135687120258808
+Fold score (RMSE): 0.10552576184272766

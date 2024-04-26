@@ -1,0 +1,13 @@
+hidden_layer_nodes=int((INPUT_NODES * 2/3) + OUTPUT_NODES) = 1268, epochs=200, batch_size=16
+-------------------------------------------------------------------------------------------------
+Fold #1
+Epoch 200/200, Validation Loss: 0.048641033470630646.
+Fold #2
+Epoch 200/200, Validation Loss: 0.019472096115350723.
+Fold #3
+Epoch 200/200, Validation Loss: 0.015333847142755985.
+Fold #4
+Epoch 200/200, Validation Loss: 0.011968810111284256.
+Fold #5
+Epoch 200/200, Validation Loss: 0.015938650816679.
+Fold score (RMSE): 0.10821522772312164

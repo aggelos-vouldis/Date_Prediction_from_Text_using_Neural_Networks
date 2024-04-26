@@ -1,0 +1,11 @@
+Fold #1
+Epoch 200/200, Validation Loss: 0.011209237389266491
+Fold #2
+Epoch 200/200, Validation Loss: 0.0034122031647711992
+Fold #3
+Epoch 200/200, Validation Loss: 0.0033367478754371405
+Fold #4
+Epoch 200/200, Validation Loss: 0.002260590437799692
+Fold #5
+Epoch 200/200, Validation Loss: 0.0014331251149997115
+Fold score (RMSE): 0.03785663843154907
